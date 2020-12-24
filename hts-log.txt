@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Dec 2020 10:11:47 at https://samandsounds.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://samandsounds.com/ -O1 "C:\My Web Sites\sam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:12:21	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://samandsounds.com/)
+10:12:22	Warning: 	Moved Permanently for s.w.org/robots.txt
+10:12:22	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+10:12:22	Warning: 	Moved Permanently for s.w.org/
+10:12:22	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+10:13:15	Warning: 	Found for https://www.instagram.com/sam_and_sounds/
+10:13:15	Warning: 	File has moved from https://www.instagram.com/sam_and_sounds/ to https://www.instagram.com/accounts/login/
+10:13:16	Error: 	"Not Found" (404) at link https://www.facebook.com/iamsamandsounds/ (from https://samandsounds.com/)
+10:13:17	Error: 	"Bad Request" (400) at link https://twitter.com/sam_and_sounds/ (from https://samandsounds.com/)
+10:13:47	Warning: 	Moved Permanently for https://samandsounds.com/?p=562
+10:13:47	Warning: 	File has moved from https://samandsounds.com/?p=562 to https://samandsounds.com/album/sams-sounds/
+10:13:47	Warning: 	Moved Permanently for https://samandsounds.com/?p=395
+10:13:47	Warning: 	File has moved from https://samandsounds.com/?p=395 to https://samandsounds.com/about/
+10:13:47	Warning: 	Moved Permanently for https://samandsounds.com/?p=394
+10:13:47	Warning: 	File has moved from https://samandsounds.com/?p=394 to https://samandsounds.com/photos/
+10:13:47	Warning: 	Moved Permanently for https://samandsounds.com/?p=663
+10:13:47	Warning: 	File has moved from https://samandsounds.com/?p=663 to https://samandsounds.com/addicted-to-you-sam-and-sounds/
+10:13:55	Warning: 	Moved Permanently for https://samandsounds.com/?p=650
+10:13:55	Warning: 	File has moved from https://samandsounds.com/?p=650 to https://samandsounds.com/newsletter/
+10:13:55	Warning: 	Moved Permanently for https://samandsounds.com/?p=72
+10:13:55	Warning: 	File has moved from https://samandsounds.com/?p=72 to https://samandsounds.com/contact/
+10:14:08	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UC_9XIWriOUiRtuTR3GPWlEg (from https://www.youtube.com/channel/UC_9XIWriOUiRtuTR3GPWlEg)
+10:14:08	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UC_9XIWriOUiRtuTR3GPWlEg (from https://www.youtube.com/channel/UC_9XIWriOUiRtuTR3GPWlEg)
+10:14:08	Error: 	"Not Found" (404) at link https://open.spotify.com/track/android-app://com.spotify.music/spotify/track/5azI4cZMifEtFyzhjKImId (from https://open.spotify.com/track/4c9353f3wlw6WTk3qWdTrc?si=8-WLb-YTQyCoAdhlRcyi2w)
+10:14:09	Error: 	"Not Found" (404) at link https://open.spotify.com/track/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 184 links scanned, 159 files written (19621005 bytes overall) [17139465 bytes received at 120700 bytes/sec], 3827555 bytes transferred using HTTP compression in 85 files, ratio 26%, 3.1 requests per connection
+(7 errors, 18 warnings, 0 messages)

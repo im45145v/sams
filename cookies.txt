@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	GlQp2sjY-LQ
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	tcxXhSMU8PE
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	fr	1CDMPYgRVOhFn8pHZ..Bf5Bwi.o9.AAA.0.0.Bf5Bwi.AWXqadZhYGw
+.instagram.com	TRUE	/	FALSE	1999999999	ig_did	BA2F61AB-637E-4287-A604-67E2F143BE2E
+.instagram.com	TRUE	/	FALSE	1999999999	mid	X-QcIQAEAAF4AjeavPehH9bvTf76
+.instagram.com	TRUE	/	FALSE	1999999999	ig_nrcb	1
+open.spotify.com	TRUE	/	FALSE	1999999999	sp_landing	http%3A%2F%2Fopen.spotify.com%2Ftrack%2F4c9353f3wlw6WTk3qWdTrc%3Fsi%3D8-WLb-YTQyCoAdhlRcyi2w
+open.spotify.com	TRUE	/	FALSE	1999999999	sp_t	4dfc152d3e7420c19c0a201e14be4cae
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_BgCWGnj6prLfpZKLDkoU+g=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A160878499849106491
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+open.spotify.com	TRUE	/	FALSE	1999999999	samesite	none
+.spotify.com	TRUE	/	FALSE	1999999999	sp_t	4dfc152d3e7420c19c0a201e14be4cae
+open.spotify.com	TRUE	/	FALSE	1999999999	samesite	none
+
